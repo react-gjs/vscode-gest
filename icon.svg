@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="icon.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.659624"
+     inkscape:cx="68.039777"
+     inkscape:cy="125.14947"
+     inkscape:window-width="2506"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="55.693264"
+       y="86.731929"
+       width="244.52755"
+       height="149.35363"
+       id="rect287" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#e6e6e6;stroke-width:0.284936"
+       id="path121"
+       cx="33.847443"
+       cy="33.786728"
+       r="33.620102" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-12.870448,-6.8906165)"
+       id="text285"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:114.667px;font-family:Cantarell;-inkscape-font-specification:Cantarell;white-space:pre;shape-inside:url(#rect287);display:inline;fill:#e6e6e6"><tspan
+         x="55.693359"
+         y="189.70483"
+         id="tspan549"><tspan
+           style="fill:#4d4d4d"
+           id="tspan547">Gest</tspan></tspan></text>
+  </g>
+</svg>

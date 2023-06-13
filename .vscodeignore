@@ -28,3 +28,4 @@ yarn-error.log
 .npmignore
 .jest.config.js
 **/*.vsix
+icon.svg

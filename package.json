@@ -5,6 +5,7 @@
   "type": "commonjs",
   "version": "1.0.0",
   "main": "./dist/extension.js",
+  "icon": "./icon.png",
   "engines": {
     "vscode": "^1.78.0"
   },
