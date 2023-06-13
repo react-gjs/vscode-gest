@@ -1,5 +1,6 @@
 {
   "packageManager": "yarn@1.22.19",
+  "publisher": "ncpa0cpl",
   "name": "vscode-gest",
   "displayName": "Gest",
   "type": "commonjs",
@@ -16,7 +17,8 @@
     "test:lint": "eslint ./src",
     "test:prettier": "prettier -c ./src",
     "test:tsc": "tsc --noEmit",
-    "build": "node ./scripts/build.mjs"
+    "build": "node ./scripts/build.mjs",
+    "package": "yarn build && vsce package --yarn --no-dependencies"
   },
   "repository": {
     "type": "git",
